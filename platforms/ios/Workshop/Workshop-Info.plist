@@ -61,7 +61,7 @@
     <key>NSPhotoLibraryUsageDescription</key>
     <string/>
     <key>Google Maps API Key</key>
-    <string>AIzaSyA3Y2FxDY-nmLjMJXLVnIFvM7MI4OlSx3I</string>
+    <string></string>
     <key>NSLocationAlwaysUsageDescription</key>
     <string>$NSLocationAlwaysUsageDescription</string>
     <key>LSApplicationQueriesSchemes</key>
